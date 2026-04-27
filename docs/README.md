@@ -2,22 +2,17 @@
   <img src="./images/image-poster.png" width="60%">
 </div>
 
-**Welcome to the IEEE SSCS Chipathon 2025!** <br>
+**Welcome to the IEEE SSCS Chipathon 2026!** <br>
 This guide provides key information for participants. During the Chipathon, you will choose one of the tracks shown below.
-
-<div align="center">
-  <img src="./images/image-tracks.png" width="70%">
-</div>
 
 We encourage you to follow the steps below:
 
-1. [General IIC-OSIC Tool setup](https://github.com/sscs-ose/sscs-chipathon-2025/tree/main/docs/install_instructions)
-2. Track-specific setup
-    - [MOSbius](https://github.com/mosbiuschip/chipathon2025)
-    - [Digital Building Blocks](../resources/Digital_Building_Blocks/README.md)
-    - [Analog Automation](../resources/Analog_Automation_gLayout/)
+1. [General IIC-OSIC Tool setup](./install_instructions)
+2. Custom setup
+    - [MOSbius playground for chips](https://github.com/mosbiuschip/chipathon2025)
+    - [AI/LLM assisted circuits](../resources/Analog_Automation_gLayout/)
 
-For the 2025 Chipathon, we will use the open-source GlobalFoundries 180nm (gf180mcuD) process design kit (PDK). You can refer to the links below for more information:
+For the 2026 Chipathon, we will use the open-source GlobalFoundries 180nm (gf180mcuD) process design kit (PDK). You can refer to the links below for more information:
 
 - [Github Repository](https://github.com/google/gf180mcu-pdk)
 - [Documentation](https://gf180mcu-pdk.readthedocs.io/en/latest/)
@@ -38,9 +33,9 @@ The following guidelines help you set up the tools using the [IIC-OSIC-TOOLS](ht
 
 Please start with the Quick Start Guide and setup Docker Desktop and the IIC-OSIC-TOOLS. Then, choose one of the following tutorial links to set up the tools, which best fits your environment. Experienced users may configure the tools using their own preferred approach.
 
-The **MOSbius** and **Analog Automation** tracks require slight variations of the general tool setup. Once you are familiar with the general procedure, adapting it for each track should be straightforward.
+The **MOSbius playground** and **AI/LLM assisted circuits** tracks require slight variations of the general tool setup. Once you are familiar with the general procedure, adapting it for each track should be straightforward.
 
-👉 [Chipathon 2025 IIC-OSIC Docker Setup](https://github.com/sscs-ose/sscs-chipathon-2025/tree/main/docs/install_instructions)
+👉 [Chipathon 2026 IIC-OSIC Docker Setup](./install_instructions)
 
 <!-- - **[Windows/MacOS only]** <br>
 👉 Kwantae Kim's [Blog Post](https://kwantaekim.github.io/2024/05/25/OSE-Docker/) <br>
@@ -60,19 +55,14 @@ The image below provides a quick overview of the open-source toolchain (credit: 
 
 # 2. Track-Specific Setup
 
-## 2.1. MOSbius
+## MOSbius playground
 
 - [`resources/MOSbius`](https://github.com/mosbiuschip/chipathon2025) <br>
 👉 Gateway redirecting to `mosbiuschip` repository (below), developed by Peter Kinget and Juan Sebastian Moya's team.
 - [mosbiuschip](https://mosbius.org/0_front_matter/intro.html) <br>
 👉 Github repository for general info and resources of `mosbius` track. The `mosbius`-specific setup guide can be also found.
 
-## 2.2. Digital Building Blocks
-
-- [`resources/Digital_Building_Blocks`](../resources/Digital_Building_Blocks/README.md) <br>
-👉 General information and resources of Digital Building Blocks track.
-
-## 2.3. Analog Automation
+## AI/LLM assisted circuits
 
 - [`resources/AnalogAutomation_gLayout`](../resources/Analog_Automation_gLayout/README.md) <br>
 👉 General information and resources of `Glayout` developed by Mehdi Saligane's team, a Python-powered analog layout automation tool.
