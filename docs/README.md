@@ -65,14 +65,12 @@ The image below provides a quick overview of the open-source toolchain (credit: 
 
 - [`resources/MOSbius`](https://github.com/mosbiuschip/chipathon2025) <br>
 👉 Gateway redirecting to `mosbiuschip` repository (below), developed by Peter Kinget and Juan Sebastian Moya's team.
-- [mosbiuschip](https://mosbius.org/0_front_matter/intro.html) <br>
-👉 Github repository for general info and resources of `mosbius` track. The `mosbius`-specific setup guide can be also found.
+- [2025 mosbiuschip repo](https://mosbius.org/0_front_matter/intro.html) <br>
+👉 Github repository resources of `mosbius` track, devloped in 2025. The `mosbius`-specific setup guide can be also found.
 
 ## AI/LLM assisted circuits
 
 - [`resources/AnalogAutomation_gLayout`](../resources/Analog_Automation_gLayout/README.md) <br>
 👉 General information and resources of `Glayout` developed by Mehdi Saligane's team, a Python-powered analog layout automation tool.
-- [gLayout extra setup steps](../resources/Analog_Automation_gLayout/files/gLayout_Install.md) <br>
-👉 `Glayout`-specific setup guide
 - [gLayout repo](https://github.com/ReaLLMASIC/gLayout) <br>
 👉 Github repository for general info and resources of `gLayout` tool.
