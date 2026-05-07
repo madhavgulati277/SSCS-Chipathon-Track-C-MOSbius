@@ -1,14 +1,13 @@
-# SSCS Chipathon 2025 Participation Guidelines
+# SSCS Chipathon 2026 Participation Guidelines
 
 ## Overview
 
-This document outlines the basic guidelines and requirements for participating in the SSCS Chipathon 2025 event. Please read these guidelines carefully before beginning your project.
+This document outlines the basic guidelines and requirements for participating in the SSCS Chipathon 2026 event. Please read these guidelines carefully before beginning your project.
 
 ## Eligibility
 
 - Open to students, professionals, and researchers in the field of integrated circuits and systems
-- Participants can join individually or in teams of up to 4 members
-- At least one team member must be an IEEE SSCS member
+- Participants can join individually or in teams of up to 5 members
 
 ## Project Requirements
 
