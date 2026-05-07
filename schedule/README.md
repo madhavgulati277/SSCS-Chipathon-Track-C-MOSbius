@@ -12,39 +12,42 @@ This document outlines the official schedule for the SSCS Chipathon 2026 event.
 ### Phase 1: Setup and Introduction
 | Week | Date | Event | Track Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|---------------|:-----------:|:--------:|:------:|
-| Week 24 | TBD | **Kick-off Meeting** 🎓 | Introduction to chipathon phases (B. Murmann & M. Saligane) | [Watch]() | [View]() | [Submit]() |
-| Week 25 | TBD | **Tool Installation** 🎓 | • Full custom (analog) tool chain in docker (Harald)<br>• gLayout additional steps (Saptarshi) | [Watch]() | [View]() | [Submit]() |
-| Week 26 | TBD | **Track Overviews** 🎓 | • MOSbius Overview (Peter)<br>• gLayout Tutorial 1 (Saptarshi/Mehdi)<br>• VLSI I + Building Blocks & Flow (Amro, T. Edwards) | [Watch]() | [View]() | [Submit]() |
-| Week 27 | TBD | **Tutorial Sessions** 🎓 | • GF180 Examples (Juan)<br>• gLayout Tutorial 2 (Saptarshi/Mehdi/Akira)<br>• VLSI II + Building Blocks & Flow | [Watch]() | [View]() | [Submit]() |
+| Week 19 | May 8 | **Kick-off Meeting** 🎓 | Introduction to chipathon phases (B. Murmann & M. Saligane) | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+| Week 20 | May 15 | **Tool Installation** 🎓 | • Tutorial on xschem in GF from schematic to Layout (Saroj) <br> • Spice Simulation (Saroj) <br> • Charlib [James] <br> • DRC/LVS [Mitch] <br> • ORFS Tutorial (Gaurav) <br> • Librelane Tutorial (Mauricio) <br> • overview of MEMS sensors (Camilo) | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+| Week 21 | May 22 | **Tutorial Sessions** 🎓 | • MOSbius Overview (Peter)<br>• gLayout [Tutorial 1 FVF](https://github.com/ReaLLMASIC/gLayout/blob/main/tutorial/glayout_tutorial_FVF_part1.ipynb) (Luighi/Sapta) <br>• Analog devices for RF applications (Sadayuki) | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+| Week 22 | May 29 | **Tutorial Sessions** 🎓 | • Hands-on Tutorial on MOSbius (Juan)<br>• gLayout [Tutorial 2 OTA]() (Saptarshi/Mehdi/Akira)<br>• Full custom analog design flow (Vipul) | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
 
 ### Phase 2: Team Formation and Project Planning
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|----------|:-----------:|:--------:|:------:|
-|  | TBD | **Team Formation Deadline** |  |  |
-| Week 28 | TBD | **Project Proposal Review** 👥 | - | [Watch]() | [View 1/2]() [View 2/2]() | [Submit]() |
-| Week 29 | TBD | **Advanced Topics** 🎓 | • Systematic Design of Analog CMOS Circuits (Boris) | [Watch]() | [View]() | [Submit]() |
-| Week 30 | TBD | **Char Lib & Design Ideas** 🎓 | • Char Lib intro (Marcus)<br>• Tutorial: Schematic Database & Simulations (Peter)| [Watch]() | [View]() | [Submit]() |
+| Week 23 | June 5 | **Team Formation Deadline** |  |  |
+| Week 24 | June 12 | **Project Proposal Review** 👥 | - | [Watch (TBD)]() | [View 1/2]() [View 2/2]() | [Submit]() |
+| Week 25 | June 19 | **Advanced Topics** 🎓 | • Systematic Design of Analog CMOS Circuits (Boris) | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+| Week 26 | June 26 | **Analog Design Ideas** 🎓 | • Introduction to CACE (Tim) <br>• Tutorial: Schematic Database & Simulations (Peter)| [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+
 
 ### Phase 3: Design and Simulation
 | Week | Date | Event | Review Focus | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|--------------|:-----------:|:--------:|:------:|
-| Week 31 | TBD | **Schematic Review** 👥 | Analog/Digital | [Watch]() | [View]() | [Submit]() |
-| Week 32 | TBD | **Schematic Review** 👥 | MOSbius/Digital | [Watch]() | [View]() | [Submit]() |
-| Week 33 | TBD | **Dry Run Integration** 👥 | - | [Watch]() | [View]() | [Submit]() |
-|  | TBD | **READiness Check & Go/No-go Decision** |  |  |  |  |
+| Week 27 | July 3 | **Schematic Review** 👥  | All Tracks | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+| Week 28 | July 10 |  **Simulation Review (blocks)** 👥 | All Tracks | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+| Week 29 | July 17 | **Simulation Review (top level)** 👥 | - | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+|  | | **READiness Check & Go/No-go Decision** |  |  |  |  |
 
 ### Phase 4: Layout and Verification
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|----------|:-----------:|:--------:|:------:|
-| Week 34 | TBD | **Layout Tutorial** 🎓 | DRC, LVS, PEX (Mitch, Juan) | [Watch]() | [View]() | [Submit]() |
-|  | TBD | **DRC Dry-run** | GDS to Channel Partner |  |  |  |  |
-| Week 35 | TBD | **Integration Tutorial** 🎓 | Layout, Top level, ESD, padframe, packaging (Tim, Juan) | [Watch]() | [View]() | [Submit]() |
-| Week 36 | TBD | **Layout Review (blocks)** 👥 | - | [Watch]() | [View]() | [Submit]() |
-| Week 37 | TBD | **Layout Review (top level)** 👥 | - | [Watch]() | [View]() | [Submit]() |
-| Week 38 | TBD | **Verification** 👥 | Secondary ESD (Juan/Luighi) | [Watch]() | [View]() | [Submit]() |
-| Week 39 | TBD | **Final Chip Review** 👥 | - | [Watch]() | [View]() | [Submit]() |
+| Week 30 | July 24 | **Layout Tutorial** 🎓 | DRC, LVS, PEX (Mitch, Juan) | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+| Week 31 | July 31 | **DRC Dry-run** | GDS to Channel Partner |  |  |  |  |
+| Week 32 | Sept. 7 | **Integration Tutorial** 🎓 | Layout, Top level, ESD, padframe, packaging (Tim, Juan) | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+| Week 33 | Sept. 14 | **Layout Review (blocks)** 👥 | - | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+| Week 34 | Sept. 21 | **Layout Review (top level)** 👥 | - | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+|  | | **DRC Dry-run GDS to Channel Partner** |  |  |  |  |
+
+| Week 35 | Sept. 28 | **Verification** 👥 | Secondary ESD (Juan/Luighi) | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
+|  |     | **Final Chip Review** 👥 | - | [Watch (TBD)]() | [View (TBD)]() | [Submit]() |
 |  | TBD | **Final Submission** | DRC-clean GDS to Channel Partner |  |  |  |  |
-| Week 40 | TBD | **Post-mortem** 👥 | Project retrospective | [Watch]() | [View]() |  |
+|  | TBD | **Post-mortem** 👥 | Project retrospective | [Watch (TBD)]() | [View (TBD)]() |  |
 
 ### Phase 5: Manufacturing and Testing
 | Date | Event | 🔴 Recording | 📊 Slides | 📄 Report |
