@@ -4,7 +4,7 @@ In this folder you can find the startup scripts for the IIC-OSIC-TOOLS. These sc
 
 ## Overview
 
-Per default, all the start scripts use the IEEE Chipathon specific Docker image tag "chipathon". It should be noted that these start scripts are only compatible with that specific tag. This means that no additional configuration is required.
+Per default, all the start scripts use the IEEE Chipathon specific Docker image tag "chipathon26". It should be noted that these start scripts are only compatible with that specific tag. This means that no additional configuration is required.
 X86_64 (Classic Intel or AMD based PCs) and arm64 (e.g. Raspberry Pi or Apple Silion Macs) are supported natively.
 
 ### Types of operating modes
@@ -51,7 +51,7 @@ The `/foss/designs/` folder is, per default, shared with your hosts directory `$
 
 ### Windows Users
 
-This scripts are inteded to be run in a Windows CMD. This can either be achieved by either opening a CMD and executing the scripts from there or double clicking in the Windows Explorer.
+These scripts are intended to be run in a Windows CMD. This can either be achieved by either opening a CMD and executing the scripts from there or double clicking in the Windows Explorer.
 
 #### Available start scripts
 
