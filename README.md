@@ -16,13 +16,16 @@ The SSCS Chipathon 2026 is an exciting opportunity for participants to explore c
 - [`docs/`](docs/): Documentation and [guidelines](docs/guidelines.md) for participants
 - [`resources/`](resources/): Additional resources and materials for the various tracks
   - [`resources/IIC-OSIC-TOOLS`](resources/IIC-OSIC-TOOLS): Startup scripts for the IIC-OSIC-TOOLS
-  - [`resources/MOSbius`](resources/MOSbius)
-  - [`resources/Digital_Building_Blocks`](resources/Digital_Building_Blocks)
-  - [`resources/Analog_Automation_gLayout`](resources/Analog_Automation_gLayout)
-  - [`resources/Integration`](resources/Integration)
+  - [`resources/A_Foundational_building_blocks`](resources/A_Foundational_building_blocks): Track-A related resources
+  - [`resources/B_Circuits_for_sensors`](resources/B_Circuits_for_sensors): Track-B related resources
+  - [`resources/C_MOSbius_playground_for_chips`](resources/C_MOSbius_playground_for_chips): Track-C related resources
+  - [`resources/D_AI_LLM_for_Analog_circuits_gLayout`](resources/D_AI_LLM_for_Analog_circuits_gLayout): Track-D related resources for analog circuits
+  - [`resources/D_AI_LLM_for_Digital_circuits_Building_Blocks`](resources/D_AI_LLM_for_Digital_circuits_Building_Blocks): Track-D related resources for digital circuits
+  - [`resources/Integration`](resources/Integration): Resources for the integration phase
   - [`resources/Sizing`](resources/Sizing): Sizing data and characterization plots using the gm/ID method
 - [`examples/`](examples/): Example projects and templates
   - [`examples/analog_tutorial`](examples/analog_tutorial): A simple analog inverter tutorial.
+  - [`examples/librelane_rtl2gds_gf180`](examples/librelane_rtl2gds_gf180): Hands-on tutorial for automated digital RTL-to-GDS path
 
 ## Quick Links
 
