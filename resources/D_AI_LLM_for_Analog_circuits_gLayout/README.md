@@ -2,6 +2,7 @@
 
 - [Brief Overview of the gLayout](./files/Glayout_Overview.pdf)
 - 🤖 [GitHub Repo](https://github.com/ReaLLMASIC/gLayout)
+- [Project template](https://github.com/LuighiV/iic-osic-tools-project-template/tree/main)
 - :books: [gLayout Tutorials](https://github.com/ReaLLMASIC/gLayout/tree/main/tutorial)
   - [Flipped Voltage Follower (FVF)](https://github.com/ReaLLMASIC/gLayout/blob/main/tutorial/glayout_tutorial_FVF_part1.ipynb)
   - [Operational Transconductance Amplifier (OTA)]()
@@ -10,10 +11,7 @@
   - [Detailed Requirements](./Challenge.md)
   - [Kickoff Slides](https://docs.google.com/presentation/d/11iUuCnZQZhC-76pMEIqsWOjoYRWxP6tA/edit?slide=id.g369dd00d293_0_563#slide=id.g369dd00d293_0_563)
   -->
-- 🦾 [Contribution Guidelines]
-  - [Fork the gLayout Repo]() 
-  - [Contribute]()
-  - [Create Merge Request]()
+- 🦾 [Contribution Guidelines](https://github.com/ReaLLMASIC/gLayout/blob/main/docs/contributor_guide.md)
 
 ## gLayout
 
