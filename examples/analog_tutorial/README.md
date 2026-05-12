@@ -1,5 +1,7 @@
 # Inverter Example
 
+**NOTE** A resource page for analog design is maintained at [`resources/Analog`](../../resources/Analog) 
+
 In this folder you can find the *"Hello World"* example of IC design: A simple analog inverter in the CMOS technology `gf180mcuD`.
 
 A video tutorial on how to draw a simple inverter using `Xschem` and how to simulate it using `ngspice` is available on YouTube. Please follow this tutorial in your local installation of the IIC-OSIC-TOOLS.
