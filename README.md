@@ -21,6 +21,7 @@ The SSCS Chipathon 2026 is an exciting opportunity for participants to explore c
   - [`resources/C_MOSbius_playground_for_chips`](resources/C_MOSbius_playground_for_chips): Track-C related resources
   - [`resources/D_AI_LLM_for_Analog_circuits_gLayout`](resources/D_AI_LLM_for_Analog_circuits_gLayout): Track-D related resources for analog circuits
   - [`resources/D_AI_LLM_for_Digital_circuits_Building_Blocks`](resources/D_AI_LLM_for_Digital_circuits_Building_Blocks): Track-D related resources for digital circuits
+  - [`resources/Analog`](resources/Analog): Resources for Analog Design.
   - [`resources/Integration`](resources/Integration): Resources for the integration phase
   - [`resources/Sizing`](resources/Sizing): Sizing data and characterization plots using the gm/ID method
 - [`examples/`](examples/): Example projects and templates
