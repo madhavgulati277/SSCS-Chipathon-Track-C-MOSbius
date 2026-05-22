@@ -1,0 +1,12 @@
+*.raw
+*.log
+*.out
+*.tr0
+*.st0
+*.ext
+*.sim
+*.nodes
+.sim
+*.nodes
+.ipynb_checkpoints/
+__pycache__/
