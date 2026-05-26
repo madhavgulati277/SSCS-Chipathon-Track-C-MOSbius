@@ -49,3 +49,41 @@
 	- I have joined a team
 	- Our team has created an issue on github
 	- We have started our proposal
+
+
+
+
+
+## What should my teammates do to setup the environment on Linux?
+
+1. Install docker
+	1. sudo apt-get update
+	2. sudo apt-get install ca-certificates curl
+	3. sudo install -m 0755 -d /etc/apt/keyrings
+	4. sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+	5. sudo chmod a+r /etc/apt/keyrings/docker.asc
+	6. echo \  "deb [arch=\$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://download.docker.com/linux/ubuntu \  \$(. /etc/os-release && echo "\$VERSION_CODENAME") stable" | \  sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+	7. sudo apt-get update
+	8. sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+2. Clone the git repo and create workspace:
+	1. mkdir -p ~/eda/designs
+	2. cd ~/eda/designs
+	3. git clone https://github.com/madhavgulati277/SSCS-Chipathon-Track-C-MOSbius.git sscs-chipathon-2026
+	4. cd sscs-chipathon-2026
+3. Connect to the organizers file
+	1. git remote add upstream https://github.com/sscs-ose/sscs-chipathon-2026.git
+	2. cd ~/eda/designs/sscs-chipathon-2026/resources/IIC-OSIC-TOOLS
+	3. ./start_chipathon_vnc.sh
+	4. Open the webpage link as given in terminal (localhost link)
+
+
+## Updating and matching Git Repo without disturbing README
+
+- cd ~/eda/designs/sscs-chipathon-2026
+- git fetch upstream
+- git merge upstream/main --no-commit --no-ff
+- git checkout HEAD -- README.md
+- git checkout --theirs .
+- git add .
+- git commit -m "synced repo with organizer"
+- git push origin main

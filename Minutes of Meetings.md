@@ -1,4 +1,4 @@
-# Meeting 1: May 21, 2026
+	# Meeting 1: May 21, 2026
 
 ## Team Name: MRTMOS
 
