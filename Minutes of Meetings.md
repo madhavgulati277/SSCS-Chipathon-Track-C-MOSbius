@@ -1,4 +1,6 @@
-	# Meeting 1: May 21, 2026
+    # Minutes of Meeting
+
+# Meeting 1: May 21, 2026
 
 ## Team Name: MRTMOS
 
@@ -18,3 +20,14 @@
 	1. Nano is fine but can be too long and slow to work with at advanced stages
 3. **Gantt Chart!**
 	1. Link: https://1drv.ms/x/c/b67b5a4b19d66dd6/IQCFt5GGdvOgSYuXGDtOKIz9AV6i4Vr8B8j_q4YCoH26yWM
+
+
+
+
+# Meeting 2: May 30, 2026
+
+
+
+## Agenda:
+
+

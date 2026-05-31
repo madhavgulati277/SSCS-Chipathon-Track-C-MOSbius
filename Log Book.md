@@ -87,3 +87,7 @@
 - git add .
 - git commit -m "synced repo with organizer"
 - git push origin main
+
+## After typing :wq! to exit Vim, immediately type
+- git add .
+- git commit -m "wip notes"
