@@ -1,4 +1,4 @@
-    # Minutes of Meeting
+  # Minutes of Meeting
 
 # Meeting 1: May 21, 2026
 
