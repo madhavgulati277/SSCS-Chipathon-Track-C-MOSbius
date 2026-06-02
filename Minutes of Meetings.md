@@ -40,7 +40,7 @@
 
 1. Image sensors.
 2. Adders, Multiplier circuits (SOTA) for digital IC's
-3. Different types of VCO.
+3. Different types of VCO - Basic LC, Cross coupled etc.
 4. Different types of delsig modulators for ADC inside PLL - 1st,2nd,3rd order
 5. Different Compensation techniques on multi stage amplifiers
 6. Active and Passive filters - various topologies (Passive, 1st order, 2nd order, Butterworth, Chebyshev, Inverse Chebyshev, Cauer/Elliptic)
@@ -48,12 +48,13 @@
 8. Mixers - Architectures: balanced, unbalanced
 9. LNA - Common gate, drain, source etc.
 10. Power amplifier - class C, D, E
-11. Different types of VCO - Basic LC, Cross coupled etc.
-
+11. ISAC+FAS drawing (based on some work by Prof Kai Kit Wong at UCL)
 
 
 ### Questions
 
+
+0. What do we want actually? Given that we read the previous year proposals in this track, we saw people making dedicated standalone circuits. However MOSbius is actually a set of different transistors. Should we be making the blocks like discrete with internal connections? Or should we break it down at transistor level (eg. if a 5-T OTA has 5 transistors in which some are internally connected to others, should it be configured such that all transistors have gate, source, body and drain connected to pins and left for the user to connect by wires to make the circuit, or should the drains be connected internally if they are connected in the original circuit and only the Vdd, ground, input and output be connected to the pins)?
 1. Do we need to make a standalone circuit (eg. an amplifier or a filter) or an assisting circuit (eg. compensation network for amplifier)?
 2. Do we need to make mainstream components which are commonly present in the books or in mainstream teaching slides (seeing MOSbius's philosophy) or can we make exotic, niche, SOTA circuit architectures?
 3. Do we need to focus on the entire system or can we focus on the system
