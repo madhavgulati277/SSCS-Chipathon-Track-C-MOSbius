@@ -65,4 +65,5 @@ components, if I give 2-3 different topologies of each, I can compare
 results (eg. different types of VCO, loop filter, charge pump etc.). Or should I make 1 component so that I can achieve limited tunability (eg. using I/V biasing variations to alter gm in analog components).
 6. We are expected to make modular architecture in here. But in track A also they are making architectures and taping them out. What is the main difference between track A and track C then? I joined expecting that we would focus first on measurement and hand calculation and then tape it out.
 7. When we'll be making circuits, do we need to make them readymade or do we need to make a set of transistors and so on so that the student/learner can assemble them to make the target circuit?
-
+8. Seeing the feedback of the proposals submitted last year, I could figure out that we need to include this in our proposal:
+    1. 
