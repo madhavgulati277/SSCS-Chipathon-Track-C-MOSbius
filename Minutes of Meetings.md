@@ -66,4 +66,18 @@ results (eg. different types of VCO, loop filter, charge pump etc.). Or should I
 6. We are expected to make modular architecture in here. But in track A also they are making architectures and taping them out. What is the main difference between track A and track C then? I joined expecting that we would focus first on measurement and hand calculation and then tape it out.
 7. When we'll be making circuits, do we need to make them readymade or do we need to make a set of transistors and so on so that the student/learner can assemble them to make the target circuit?
 8. Seeing the feedback of the proposals submitted last year, I could figure out that we need to include this in our proposal:
-    1. 
+    1. Goal - what are we doing, with proper specifications and end objectives.
+    2. Design - proposal, specifications, how to meet them, are they realistic given the PDK, timeframe, team size (we have to get DRC cleared!) 
+        - Target Specifications (clearly described!)
+        - Block Diagram and how are we going to implement it, with complexity and schematics of blocks.
+        - Pinout
+        - Application diagrams
+        - Testing and demonstration methodology.
+    3. Application, relevance and usecase
+    4. References
+    5. Team background
+        - Academic Experience
+        - Work Experience
+    6. Work distribution and planning
+        - We will be using Gantt Chart!
+
