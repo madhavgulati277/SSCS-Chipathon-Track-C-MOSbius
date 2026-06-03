@@ -71,7 +71,7 @@ results (eg. different types of VCO, loop filter, charge pump etc.). Or should I
         - Target Specifications (clearly described!)
         - Block Diagram and how are we going to implement it, with complexity and schematics of blocks.
         - Pinout
-        - Application diagrams
+        - Application diagrams - thorough and neat.
         - Testing and demonstration methodology.
     3. Application, relevance and usecase
     4. References
@@ -80,4 +80,4 @@ results (eg. different types of VCO, loop filter, charge pump etc.). Or should I
         - Work Experience
     6. Work distribution and planning
         - We will be using Gantt Chart!
-
+    **Cover everything and describe all intricacies in great detail. Keep on digging and going into the "why's" and "how's" and then write them down.**
