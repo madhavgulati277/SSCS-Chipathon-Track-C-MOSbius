@@ -63,9 +63,9 @@ complete PLL (VCO is a part of the PLL)?
 4. Should it be tunable or non-tunable? Like if a circuit has multiple
 components, if I give 2-3 different topologies of each, I can compare
 results (eg. different types of VCO, loop filter, charge pump etc.). Or should I make 1 component so that I can achieve limited tunability (eg. using I/V biasing variations to alter gm in analog components).
-6. We are expected to make modular architecture in here. But in track A also they are making architectures and taping them out. What is the main difference between track A and track C then? I joined expecting that we would focus first on measurement and hand calculation and then tape it out.
-7. When we'll be making circuits, do we need to make them readymade or do we need to make a set of transistors and so on so that the student/learner can assemble them to make the target circuit?
-8. Seeing the feedback of the proposals submitted last year, I could figure out that we need to include this in our proposal:
+5. We are expected to make modular architecture in here. But in track A also they are making architectures and taping them out. What is the main difference between track A and track C then? I joined expecting that we would focus first on measurement and hand calculation and then tape it out.
+6. When we'll be making circuits, do we need to make them readymade or do we need to make a set of transistors and so on so that the student/learner can assemble them to make the target circuit?
+7. Seeing the feedback of the proposals submitted last year, I could figure out that we need to include this in our proposal:
     1. Goal - what are we doing, with proper specifications and end objectives.
     2. Design - proposal, specifications, how to meet them, are they realistic given the PDK, timeframe, team size (we have to get DRC cleared!) 
         - Target Specifications (clearly described!)
