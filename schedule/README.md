@@ -19,10 +19,10 @@ This document outlines the official schedule for the SSCS Chipathon 2026 event.
 ### Phase 2: Team Formation and Project Planning
 | Week | Date | Event | Details | 🔴 Recording | 📊 Slides | 📄 Report |
 |------|------|-------|----------|:-----------:|:--------:|:------:|
-| Week 23 | June 5 | **Team Formation Deadline**| • Chip design with AI/LLM (Mehdi) <br>• Overview of MEMS sensors (Camilo) <br>• Hands-on Tutorial on MOSbius (Juan)<br>• Analog devices for RF applications (Sadayuki) <br> (tentative)|  |
+| Week 23 | June 5 | **Team Formation Deadline**| • Chip design with AI/LLM (Mehdi) <br>• Hands-on Tutorial on MOSbius (Juan)| [Watch](https://us06web.zoom.us/rec/share/6HKiL_V6Q2qIHlUATzowm-JPvQfVBzhtgoYucraFsrqWDz5I0N-DnuCeEoQ5sW3D.raKGLGNCKkB7via-) <br> Passcode: &!Lusy9l | | |
 | Week 24 | June 12 | **Project Proposal Review** 👥 | - |  |  |  |
-| Week 25 | June 19 | **Advanced Topics** 🎓 | • Systematic Design of Analog CMOS Circuits (Boris) |  |  |  |
-| Week 26 | June 26 | **Analog Design Ideas** 🎓 | • Introduction to CACE (Tim) <br>• Tutorial: Schematic Database & Simulations (Peter)|  |  |  |
+| Week 25 | June 19 | **Advanced Topics** 🎓 | • Systematic Design of Analog CMOS Circuits (Boris)<br>• Introduction to CACE (Leo) |  |  |  |
+| Week 26 | June 26 | **Analog Design Ideas** 🎓 | • Tutorial: Schematic Database & Simulations (Peter)<br>• Overview of MEMS sensors (Camilo) <br>• Analog devices for RF applications (Sadayuki) <br> (tentative)|  |  |  |
 
 
 ### Phase 3: Design and Simulation
