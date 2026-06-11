@@ -24,8 +24,8 @@
 
 # About MOSbius
 
-https://mosbius.org/0_front_matter/intro.html
-https://spectrum.ieee.org/mosbius-learning-analog-system-design
-https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/updates/mosbius
-https://ieeexplore.ieee.org/document/11120331
-https://www.engineering.columbia.edu/about/news/learning-analog-system-design-mosbius
+- https://mosbius.org/0_front_matter/intro.html
+- https://spectrum.ieee.org/mosbius-learning-analog-system-design
+- https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/updates/mosbius
+- https://ieeexplore.ieee.org/document/11120331
+- https://www.engineering.columbia.edu/about/news/learning-analog-system-design-mosbius
