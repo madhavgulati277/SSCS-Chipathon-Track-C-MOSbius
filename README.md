@@ -16,7 +16,10 @@
 
 # Proposal: Compensation networks for amplifiers
 
+### Our issue: https://github.com/sscs-ose/sscs-chipathon-2026/issues/130
+
 #### Issue template: https://github.com/sscs-ose/sscs-chipathon-2026/issues/123
+
 
 #### Team tracker spreadsheet: https://docs.google.com/spreadsheets/d/1gmoKPM4BqINYTlfer8QmWziMr1ut_naP1ouXoCG_GuY/edit?gid=840721033#gid=840721033
 
