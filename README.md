@@ -22,6 +22,8 @@
 
 ### Link to our proposal: https://docs.google.com/presentation/d/1EogFtIlGiZ-EVslK253EfpdZMyNG_8xS9s7VJw7FChg/edit?slide=id.p1#slide=id.p1
 
+### Proposal to be presented: https://docs.google.com/presentation/d/1fg-tLoPCH4SCN_3tkq7wYo87EJUDZR3OUUjlz6IXLH8/edit?slide=id.g3eec74bf694_0_34#slide=id.g3eec74bf694_0_34
+
 # About MOSbius
 
 - https://mosbius.org/0_front_matter/intro.html
