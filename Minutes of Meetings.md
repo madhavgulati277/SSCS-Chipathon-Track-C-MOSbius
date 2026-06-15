@@ -81,3 +81,24 @@ results (eg. different types of VCO, loop filter, charge pump etc.). Or should I
     6. Work distribution and planning
         - We will be using Gantt Chart!
     **Cover everything and describe all intricacies in great detail. Keep on digging and going into the "why's" and "how's" and then write them down.**
+
+
+
+## Meeting 3: June 15, 2026
+
+### Agenda:
+1. Discussion of repositories
+2. Feedback Discussion 
+
+### Tasks Assigned: 
+
+1. Draw complete schematic using draw.io - Block diagram level -> Turanyaa - Complete it by Tuesday - share xml and svg version.
+2. make a clear diagram with which components are on chip and which ones are off chip. -> Depends on the schematic. As we should know which component is where and what all do we have on the circuit. -> Raman - Complete by Wednesday.
+3. Design Tasks:
+    - make a full pin-out list including all your control pins - We need task 1&2 to be completed before that. And after that we need to make the floorplan.
+    - make a complete control table to show how you will be able to cover all your desired experiments -> this is a relatively straightforward exercise. Can be done after 1 & 2.
+    - work out a set of concrete configurations that you want to use the chip in -- what experiments will they enable -> theoretical exercise -> This will be dome after the diagrams are ready.
+    - provide details for the amplifier schematics
+    - work through the numbers -- what component sizes will you need, will they fit on chip ... and run feasibility simulations using ideal gm, r, and c elements. -> this and the just above one are substantial exercises - should be done after 1&2 are complete
+    - OTA/Opamps by themselves are very hard to measure .... think of some applications where to use the opamps in that would specfically benefit from the different compensation techniques. -> theoretical exercise
+    - think of experiments that students have to identify which compensation technique has been used, e.g. by looking at features in the step response -> theoretical exercise.

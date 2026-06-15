@@ -41,3 +41,5 @@
 - https://github.com/mosbiuschip/chipathon2025/blob/main/README.md
 - https://github.com/Mauricio-xx/chipathon-2026-gf180mcu-padring
 - https://github.com/d-m-bailey/sscs-chipathon-2026/blob/main/resources/documents/template_2026_ChipathonProposals.pptx
+- https://github.com/peterkinget/MOSbiusCADFlow/
+- https://www.ee.iitm.ac.in/~nagendra/cadinfo.html
