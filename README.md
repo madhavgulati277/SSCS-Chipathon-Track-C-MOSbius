@@ -34,3 +34,10 @@
 - https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/updates/mosbius
 - https://ieeexplore.ieee.org/document/11120331
 - https://www.engineering.columbia.edu/about/news/learning-analog-system-design-mosbius
+
+
+## Some more important links
+
+- https://github.com/mosbiuschip/chipathon2025/blob/main/README.md
+- https://github.com/Mauricio-xx/chipathon-2026-gf180mcu-padring
+- https://github.com/d-m-bailey/sscs-chipathon-2026/blob/main/resources/documents/template_2026_ChipathonProposals.pptx
