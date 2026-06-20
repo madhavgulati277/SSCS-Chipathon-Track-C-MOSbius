@@ -43,3 +43,9 @@
 - https://github.com/d-m-bailey/sscs-chipathon-2026/blob/main/resources/documents/template_2026_ChipathonProposals.pptx
 - https://github.com/peterkinget/MOSbiusCADFlow/
 - https://www.ee.iitm.ac.in/~nagendra/cadinfo.html
+
+
+### Logistics - important links
+
+- https://github.com/sscs-ose/sscs-chipathon-2026/issues/123
+- https://github.com/sscs-ose/sscs-chipathon-2026/discussions/153
