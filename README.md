@@ -45,7 +45,10 @@
 - https://www.ee.iitm.ac.in/~nagendra/cadinfo.html
 
 
-### Logistics - important links
+### Logistics and format - important links
 
 - https://github.com/sscs-ose/sscs-chipathon-2026/issues/123
 - https://github.com/sscs-ose/sscs-chipathon-2026/discussions/153
+- https://github.com/mosbiuschip/chipathon2025/blob/main/README.md
+- https://github.com/mosbiuschip/chipathon2025
+- https://github.com/mosbiuschip/
