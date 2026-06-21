@@ -105,16 +105,14 @@
 
 ## For the team:
 
-- Go to my official repository: https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon
-- Click the Fork button in the top right corner to create your own copy on your GitHub account.
+- I'll add you as contributors.
+- Go to my official repository: https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon and pull it on my machine.
 - Follow the steps (for syncing):
     1. cd ~eda/designs/
     2. git clone https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon
     3. cd C05-MRTMOS-SSCS-Chipathon
-    4. git remote add upstream https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon -> to sync my repo with yours
-    5. git remote -v -> (you should see your name as origin and my name as upstream)
 - Before you begin to work:
-    1. git pull upstream main (to get new information from main repo)
+    1. git pull 
 - Boot sequence and workflow:
     1. cd ~/eda/designs/sscs-chipathon-2026/resources/IIC-OSIC-TOOLS
     2. ./start_chipathon_vnc.sh (both steps to start docker)
