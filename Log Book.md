@@ -108,7 +108,7 @@
 - I'll add you as contributors.
 - Go to my official repository: https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon and pull it on my machine.
 - Follow the steps (for syncing):
-    1. cd ~eda/designs/
+    1. cd ~/eda/designs/
     2. git clone https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon
     3. cd C05-MRTMOS-SSCS-Chipathon
 - Before you begin to work:
@@ -117,6 +117,7 @@
     1. cd ~/eda/designs/sscs-chipathon-2026/resources/IIC-OSIC-TOOLS
     2. ./start_chipathon_vnc.sh (both steps to start docker)
     3. open docker in VNC via Remmina/browser.
+    4. cd into the C05-MRTMOS.... folder and work there.
 - To sync and submit work:
     1. git add .
     2. git commit -m "commit message"
