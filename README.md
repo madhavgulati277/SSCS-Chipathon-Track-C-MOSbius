@@ -52,3 +52,6 @@
 - https://github.com/mosbiuschip/chipathon2025/blob/main/README.md
 - https://github.com/mosbiuschip/chipathon2025
 - https://github.com/mosbiuschip/
+- https://github.com/sscs-ose/sscs-chipathon-2026/blob/main/resources/documents/template_2026_ChipathonProposals.pptx
+- Pin list: https://docs.google.com/spreadsheets/d/1pHG3cbpYbGc9qAq9G-NZkLor6GjWBoljDVpwNgFM__g/edit?gid=0#gid=0
+- Padframe proposal: https://github.com/wafer-space/gf180mcu-project-template
