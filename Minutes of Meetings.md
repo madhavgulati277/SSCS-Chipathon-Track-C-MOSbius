@@ -102,3 +102,15 @@ results (eg. different types of VCO, loop filter, charge pump etc.). Or should I
     - work through the numbers -- what component sizes will you need, will they fit on chip ... and run feasibility simulations using ideal gm, r, and c elements. -> this and the just above one are substantial exercises - should be done after 1&2 are complete
     - OTA/Opamps by themselves are very hard to measure .... think of some applications where to use the opamps in that would specfically benefit from the different compensation techniques. -> theoretical exercise
     - think of experiments that students have to identify which compensation technique has been used, e.g. by looking at features in the step response -> theoretical exercise.
+
+
+
+
+## Meeting 4: June 29, 2026
+
+1. Don't measure or simulate blindly, as we are simulating on silicon.
+2. Don't use AI to ideate or write from scratch. Use your own intuition, use AI only for fact checking and verification.
+
+#### Tasks to do:
+
+1. https://courses.hoomanreyhani.com/wp-content/uploads/2024/07/LTspice_Tutorial_20240101.pdf - GF180 library. Check Github as well.
