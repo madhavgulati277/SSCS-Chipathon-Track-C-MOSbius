@@ -27,10 +27,6 @@
 
 ### Proposal to be presented: https://docs.google.com/presentation/d/1fg-tLoPCH4SCN_3tkq7wYo87EJUDZR3OUUjlz6IXLH8/edit?slide=id.g3eec74bf694_0_34#slide=id.g3eec74bf694_0_34
 
-### Theory work
-
-- https://docs.google.com/presentation/d/1Rav3rcwp3tP9SzF66Vhdqami3EDXr2ALrdsK2qOy4Wo/edit?slide=id.p1#slide=id.p1
-- https://docs.google.com/presentation/d/1_zCHxZTm1HeOdZ5Q1Mwh_lRNTVunnLxVngbWTQ01suQ/edit?slide=id.p10#slide=id.p10
 
 # About MOSbius
 
