@@ -27,6 +27,7 @@
 
 ### Proposal to be presented: https://docs.google.com/presentation/d/1fg-tLoPCH4SCN_3tkq7wYo87EJUDZR3OUUjlz6IXLH8/edit?slide=id.g3eec74bf694_0_34#slide=id.g3eec74bf694_0_34
 
+### Schematic Review to be presented: https://docs.google.com/presentation/d/1mi2Mj95aQM9AowrDk6M0F4ldJfMq8vN7pfCQlcB8WS4/edit?slide=id.g3f0bc62e557_31_20#slide=id.g3f0bc62e557_31_20
 
 # About MOSbius
 
