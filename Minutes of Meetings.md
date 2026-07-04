@@ -114,3 +114,9 @@ results (eg. different types of VCO, loop filter, charge pump etc.). Or should I
 #### Tasks to do:
 
 1. https://courses.hoomanreyhani.com/wp-content/uploads/2024/07/LTspice_Tutorial_20240101.pdf - GF180 library. Check Github as well.
+
+
+## Meeting: July 4, 2026
+
+1. Area is 124880.625 - for silicon. Assuming that metal and spaces take 9 times the area of silicon
+2. Total area of chip is roughly 1.25 mm^2
