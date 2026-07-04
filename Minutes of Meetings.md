@@ -120,3 +120,4 @@ results (eg. different types of VCO, loop filter, charge pump etc.). Or should I
 
 1. Area is 124880.625 - for silicon. Assuming that metal and spaces take 9 times the area of silicon
 2. Total area of chip is roughly 1.25 mm^2
+3. Inequalities - Raman is working on them.
