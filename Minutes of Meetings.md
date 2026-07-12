@@ -121,3 +121,23 @@ results (eg. different types of VCO, loop filter, charge pump etc.). Or should I
 1. Area is 124880.625 - for silicon. Assuming that metal and spaces take 9 times the area of silicon
 2. Total area of chip is roughly 1.25 mm^2
 3. Inequalities - Raman is working on them.
+
+
+## Meeting: July 12, 2026
+
+### Agenda:
+1. Analysis of feedback
+2. The road ahead - Gantt chart
+3. Some technical stuff (only a little) - mainly discussion about biasing techniques
+
+
+
+## MoM:
+
+1. We have to complete simulations by July 16. After that we legit have to paste the images.
+2. gm/Id - Concept isn't that hard, but we should know how to implement it. 
+    - Learn how to use Boris Murmann's repo and tools - by tomorrow. 
+    - Get hands dirty on Xschem.
+3. Stage 3 has to drive current into the load so it should have the highest Gm. also for nested miller - as per inequality.
+4. Distribution of tasks - See Gantt Chart!
+5. Technical discussion: Wednesday 6.30pm!
