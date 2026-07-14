@@ -58,3 +58,17 @@
 - Pin list: https://docs.google.com/spreadsheets/d/1pHG3cbpYbGc9qAq9G-NZkLor6GjWBoljDVpwNgFM__g/edit?gid=0#gid=0
 - Padframe proposal: https://docs.google.com/presentation/d/1Xv_e0r1JKkjAIttDKGDsLEcDNz211jee_gQeWR6n7Es/edit?slide=id.p#slide=id.p 
 - Padframe repo: https://github.com/wafer-space/gf180mcu-project-template
+
+
+### gm/Id links: Prof Boris Murmann
+
+- https://github.com/bmurmann/Book-on-gm-ID-design/tree/main
+- https://github.com/bmurmann/Chipathon2025
+- https://docs.google.com/presentation/d/e/2PACX-1vQskh77zL1A6RuCtjrjYBFjEMV9KKKAnJLeW1QzCBsPwpewTReR5-Y35LPDksaUCA/pub?slide=id.g36793c0ddeb_0_5
+
+
+### Design and presentation guidelines: Prof Peter Kinget
+
+- https://docs.google.com/presentation/d/e/2PACX-1vT6_7SeMOCoETnaTSsmBUs8t7HBvNqna3o8iZrcOSkAemD8K-OZi1ihgp5ifIU_RQ/pub?slide=id.g36793c0ddeb_0_5
+- https://www.ee.columbia.edu/~kinget/TOOLS/schematics.html
+- https://aicdesign.org/2016-short-course-notes-2/
