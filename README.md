@@ -65,10 +65,14 @@
 - https://github.com/bmurmann/Book-on-gm-ID-design/tree/main
 - https://github.com/bmurmann/Chipathon2025
 - https://docs.google.com/presentation/d/e/2PACX-1vQskh77zL1A6RuCtjrjYBFjEMV9KKKAnJLeW1QzCBsPwpewTReR5-Y35LPDksaUCA/pub?slide=id.g36793c0ddeb_0_5
-
+- https://ieeetoronto.ca/wp-content/uploads/2020/06/20160226toronto_sscs.pdf
 
 ### Design and presentation guidelines: Prof Peter Kinget
 
 - https://docs.google.com/presentation/d/e/2PACX-1vT6_7SeMOCoETnaTSsmBUs8t7HBvNqna3o8iZrcOSkAemD8K-OZi1ihgp5ifIU_RQ/pub?slide=id.g36793c0ddeb_0_5
 - https://www.ee.columbia.edu/~kinget/TOOLS/schematics.html
 - https://aicdesign.org/2016-short-course-notes-2/
+- https://github.com/sscs-ose/sscs-chipathon-2026/tree/main/resources/C_MOSbius_playground_for_chips
+
+### Some useful PPTs
+- Raman Naik: [Schematic Slides](https://docs.google.com/presentation/d/1MCTe4NZAxRHoTwsmndrJTs6YgEU8tfrsU879XKVzxWQ/edit?slide=id.g3f586113e17_0_15#slide=id.g3f586113e17_0_15)
