@@ -29,6 +29,8 @@
 
 ### Schematic Review to be presented: https://docs.google.com/presentation/d/1mi2Mj95aQM9AowrDk6M0F4ldJfMq8vN7pfCQlcB8WS4/edit?slide=id.g3f0bc62e557_31_20#slide=id.g3f0bc62e557_31_20
 
+### Schematic Review: https://docs.google.com/presentation/d/1I-o5oovYUhl__ZaXe6FphKHVHLS3nnc1F5US67V6qhA/edit?slide=id.g3f96681edc1_0_1234#slide=id.g3f96681edc1_0_1234
+
 # About MOSbius
 
 - https://mosbius.org/0_front_matter/intro.html
