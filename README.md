@@ -75,3 +75,6 @@
 - https://www.ee.columbia.edu/~kinget/TOOLS/schematics.html
 - https://aicdesign.org/2016-short-course-notes-2/
 - https://github.com/sscs-ose/sscs-chipathon-2026/tree/main/resources/C_MOSbius_playground_for_chips
+
+### Some useful PPTs
+- Raman Naik: [Schematic Slides](https://docs.google.com/presentation/d/1MCTe4NZAxRHoTwsmndrJTs6YgEU8tfrsU879XKVzxWQ/edit?slide=id.g3f586113e17_0_15#slide=id.g3f586113e17_0_15)
