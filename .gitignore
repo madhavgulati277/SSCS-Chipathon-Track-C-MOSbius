@@ -10,3 +10,10 @@
 *.nodes
 .ipynb_checkpoints/
 __pycache__/
+*.swp
+*.swo
+*~
+.un~
+*.err
+.DS_Store
+Thumbs.db

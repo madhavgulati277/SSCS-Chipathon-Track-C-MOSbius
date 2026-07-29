@@ -14,7 +14,7 @@
 		- Link: http://localhost:80/?password=abc123
 		- Type the following commands:
 			- docker ps
-			- cd :~/eda/designs/sscs-chipathon-2026/resources/IIC-OSIC-TOOLS
+			- cd ~/eda/designs/sscs-chipathon-2026/resources/IIC-OSIC-TOOLS
 			- Either of this:
 				- ./start_chipathon_vnc.sh -> this is for starting it in vnc mode in browser or remmina
 				- ./start_chipathon_x.sh -> for starting it in native pc (much like cadence in mobaxterm)
@@ -87,3 +87,77 @@
 - git add .
 - git commit -m "synced repo with organizer"
 - git push origin main
+
+## After modifying any file, immediately type
+- git add .
+- git commit -m "wip notes"
+
+
+
+# New Repo
+
+### Link: https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon
+
+## For me:
+
+- git pull upstream main
+- git push origin main
+
+## For the team:
+
+- I'll add you as contributors.
+- Go to my official repository: https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon and pull it on my machine.
+- Follow the steps (for syncing):
+    1. cd ~/eda/designs/
+    2. git clone https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon
+    3. cd C05-MRTMOS-SSCS-Chipathon
+- Before you begin to work:
+    1. git pull 
+- Boot sequence and workflow:
+    1. cd ~/eda/designs/sscs-chipathon-2026/resources/IIC-OSIC-TOOLS
+    2. ./start_chipathon_vnc.sh (both steps to start docker)
+    3. open docker in VNC via Remmina/browser.
+    4. cd into the C05-MRTMOS.... folder and work there.
+- To sync and submit work:
+    1. git add .
+    2. git commit -m "commit message"
+    3. git push origin main
+
+
+
+## Pad Ring repo
+
+### Chipathon 2026 Environment Quick-Start
+
+- cd ~/eda/designs/C05-MRTMOS-SSCS-Chipathon (Moves your terminal into the root directory of your Chipathon workspace)
+
+- nix-shell (Loads the virtual environment containing all required digital and analog EDA tool paths and dependencies)
+
+- SLOT=workshop make librelane (Compiles the chip frame/padring and runs automated sign-off DRC, LVS, and Antenna checks against the GF180nm rules)
+
+- SLOT=workshop make librelane-klayout (Launches the KLayout GUI to visually inspect the top-level macro layout)
+
+- SLOT=workshop make librelane-openroad (Launches the OpenROAD GUI to view the design inside the core layout engine database)
+
+- klayout path/to/your/file.gds (Launches KLayout directly to open and view any specific layout database file)
+
+- SLOT=workshop make copy-final (Extracts your verified GDS layouts, wireframe DEFs, and netlists out of hidden build directories into the final/ folder)
+
+### Custom Analog Design Tools (Run inside nix-shell)
+
+- xschem (Launches the schematic capture tool where you draw differential pairs, mirrors, and amplifiers)
+
+- magic (Launches the custom layout editor where you manually draw individual transistors, wells, finger configurations, and body contacts)
+
+- ngspice (Launches the interactive SPICE simulator engine to run DC, AC, or transient analyses on your netlists)
+
+- netgen (Launches the LVS tool used to compare your XSchem schematics against your Magic layouts to ensure they match perfectly)
+
+
+## Team Setup Instructions
+
+- git clone https://github.com/madhavgulati277/C05-MRTMOS-SSCS-Chipathon C05-MRTMOS-SSCS-Chipathon (Clones the shared team repo into the standard directory)
+- cd C05-MRTMOS-SSCS-Chipathon (Navigates into the project directory)
+- nix-shell (Downloads and configures LibreLane 3.0.0 and all EDA tools)
+- make clone-pdk (Clones the wafer-space/gf180mcu PDK @ 1.8.0)
+- SLOT=workshop make librelane (Runs the initial padring build to verify the tools and DRC checks are working)
