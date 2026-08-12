@@ -77,4 +77,5 @@
 - https://github.com/sscs-ose/sscs-chipathon-2026/tree/main/resources/C_MOSbius_playground_for_chips
 
 ### Some useful PPTs
-- Raman Naik: [Schematic Slides](https://docs.google.com/presentation/d/1MCTe4NZAxRHoTwsmndrJTs6YgEU8tfrsU879XKVzxWQ/edit?slide=id.g3f586113e17_0_15#slide=id.g3f586113e17_0_15)
+- Raman: [Schematic Slides](https://docs.google.com/presentation/d/1MCTe4NZAxRHoTwsmndrJTs6YgEU8tfrsU879XKVzxWQ/edit?slide=id.g3f586113e17_0_15#slide=id.g3f586113e17_0_15)
+- Raman: [Hand Analyses](https://docs.google.com/document/d/12rJJIe1yzb3uOtjGf8CPfhGi_uFeecdXohMK-QvpOzw/edit?tab=t.0)
