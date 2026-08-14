@@ -55,7 +55,7 @@ N -10 70 10 70 {lab=0}
 C {symbols/nfet_05v0.sym} 340 -60 0 1 {name=M1
 L=0.60u
 W=42.9u
-nf=1
+nf=17
 m=1
 ad="'int((nf+1)/2) * W/nf * 0.18u'"
 pd="'2*int((nf+1)/2) * (W/nf + 0.18u)'"
@@ -96,9 +96,9 @@ spiceprefix=X
 }
 C {gnd.sym} 240 80 0 0 {name=l1 lab=0}
 C {symbols/pfet_05v0.sym} 300 -150 0 0 {name=M4
-L=0.60u
-W=56.81u
-nf=22
+L=1.2u
+W=10u
+nf=4
 m=1
 ad="'int((nf+1)/2) * W/nf * 0.18u'"
 pd="'2*int((nf+1)/2) * (W/nf + 0.18u)'"
@@ -110,9 +110,9 @@ model=pfet_05v0
 spiceprefix=X
 }
 C {symbols/pfet_05v0.sym} 200 -150 0 1 {name=M5
-L=0.60u
-W=56.81u
-nf=22
+L=1.2u
+W=10u
+nf=4
 m=1
 ad="'int((nf+1)/2) * W/nf * 0.18u'"
 pd="'2*int((nf+1)/2) * (W/nf + 0.18u)'"
@@ -128,9 +128,9 @@ C {lab_wire.sym} 370 -110 0 0 {name=p1 sig_type=std_logic lab=out2
 }
 C {vsource.sym} 80 -200 0 0 {name=V1 value=5 savecurrent=false}
 C {gnd.sym} 80 -170 0 0 {name=l2 lab=0}
-C {vsource.sym} 100 -30 0 0 {name=V2 value="1.545 ac 1" savecurrent=false}
+C {vsource.sym} 100 -30 0 0 {name=V2 value="1.684 ac 1" savecurrent=false}
 C {gnd.sym} 100 0 0 0 {name=l3 lab=0}
-C {vsource.sym} 390 -30 0 0 {name=V3 value=1.545 savecurrent=false}
+C {vsource.sym} 390 -30 0 0 {name=V3 value=1.684 savecurrent=false}
 C {code_shown.sym} -280 160 0 0 {name=MODELS only_toplevel=true value="
 .lib /foss/pdks/ciel/gf180mcu/versions/7b70722e33c03fcb5dabcf4d479fb0822d9251c9/gf180mcuD/libs.tech/ngspice/sm141064.ngspice typical
 .include /foss/pdks/ciel/gf180mcu/versions/7b70722e33c03fcb5dabcf4d479fb0822d9251c9/gf180mcuD/libs.tech/ngspice/design.ngspice
@@ -141,7 +141,7 @@ C {code.sym} -250 -160 0 0 {name=SIMULATIONS only_toplevel=false value="
 .control 
   	save all
 	op
-	
+	ac dec 20 1 100Meg
 	remzerovec
 	write gm3_OTA_ac.raw
 .endc
