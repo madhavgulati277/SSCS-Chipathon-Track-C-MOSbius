@@ -80,3 +80,9 @@
 - Raman: [Schematic Slides](https://docs.google.com/presentation/d/1MCTe4NZAxRHoTwsmndrJTs6YgEU8tfrsU879XKVzxWQ/edit?slide=id.g3f586113e17_0_15#slide=id.g3f586113e17_0_15)
 - Raman: [Hand Analyses](https://docs.google.com/document/d/12rJJIe1yzb3uOtjGf8CPfhGi_uFeecdXohMK-QvpOzw/edit?tab=t.0)
 - Turanyaa: [Schematic, Gmff](https://docs.google.com/presentation/d/1z9Qy5nEPpffWp-DJgKPhnfaVIgHGPVIofzna2VUbKSU/edit?usp=sharing)
+
+
+### Diagrams
+
+- Block Diagram: https://drive.google.com/file/d/1K-ecmafkDB78uYrOsWLTLrin3UoFuY0m/view?usp=drive_link
+- Floorplan: https://drive.google.com/file/d/1QZDz27eBb7EqESp8IXKatKeo0UOMpjjY/view?usp=drive_link
