@@ -96,9 +96,9 @@ spiceprefix=X
 }
 C {gnd.sym} 240 80 0 0 {name=l1 lab=0}
 C {symbols/pfet_05v0.sym} 300 -150 0 0 {name=M4
-L=1.2u
-W=10u
-nf=4
+L=0.6u
+W=60u
+nf=24
 m=1
 ad="'int((nf+1)/2) * W/nf * 0.18u'"
 pd="'2*int((nf+1)/2) * (W/nf + 0.18u)'"
@@ -110,9 +110,9 @@ model=pfet_05v0
 spiceprefix=X
 }
 C {symbols/pfet_05v0.sym} 200 -150 0 1 {name=M5
-L=1.2u
-W=10u
-nf=4
+L=0.6u
+W=60u
+nf=24
 m=1
 ad="'int((nf+1)/2) * W/nf * 0.18u'"
 pd="'2*int((nf+1)/2) * (W/nf + 0.18u)'"
@@ -154,7 +154,7 @@ C {lab_wire.sym} 240 -10 0 0 {name=p3 sig_type=std_logic lab=int2
 }
 C {capa.sym} 430 -80 0 0 {name=C1
 m=1
-value=15p
+value=100p
 footprint=1206
 device="ceramic capacitor"}
 C {gnd.sym} 430 -50 0 0 {name=l5 lab=0}
