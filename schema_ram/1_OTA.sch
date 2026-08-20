@@ -45,6 +45,8 @@ N 110 -210 110 -200 {lab=int1}
 N 250 -210 250 -200 {lab=out2}
 N 110 -290 180 -290 {lab=#net1}
 N 300 -200 360 -200 {lab=out2}
+N -60 -330 10 -330 {lab=#net1}
+N -60 -330 -60 -180 {lab=#net1}
 C {symbols/nfet_05v0.sym} 270 -150 0 1 {name=M1
 L=0.60u
 W=0.60u
@@ -124,7 +126,6 @@ C {gnd.sym} 10 -260 0 0 {name=l2 lab=0}
 C {vsource.sym} 30 -120 0 0 {name=V2 value="1.278 ac 1" savecurrent=false}
 C {gnd.sym} 30 -90 0 0 {name=l3 lab=0}
 C {vsource.sym} 320 -120 0 0 {name=V3 value=1.278 savecurrent=false}
-C {vsource.sym} 80 -20 0 0 {name=V4 value=1.0712 savecurrent=false}
 C {gnd.sym} 80 10 0 0 {name=l4 lab=0}
 C {code_shown.sym} -350 70 0 0 {name=MODELS only_toplevel=true value="
 .lib /foss/pdks/ciel/gf180mcu/versions/7b70722e33c03fcb5dabcf4d479fb0822d9251c9/gf180mcuD/libs.tech/ngspice/sm141064.ngspice typical
@@ -132,11 +133,11 @@ C {code_shown.sym} -350 70 0 0 {name=MODELS only_toplevel=true value="
 "
 
 }
-C {code.sym} -200 -240 0 0 {name=SIMULATIONS only_toplevel=false value="
+C {code.sym} -320 -250 0 0 {name=SIMULATIONS only_toplevel=false value="
 .control 
   	save all
 	op
-	ac dec 20 1 100Meg
+	#ac dec 20 1 100Meg
 	remzerovec
 	write 1_OTA_ac.raw
 .endc
@@ -149,7 +150,8 @@ C {lab_wire.sym} 170 -100 0 0 {name=p3 sig_type=std_logic lab=int2
 }
 C {capa.sym} 360 -170 0 0 {name=C1
 m=1
-value=1p
+value=3p
 footprint=1206
 device="ceramic capacitor"}
 C {gnd.sym} 360 -140 0 0 {name=l5 lab=0}
+C {isource.sym} -60 -150 0 0 {name=I0 value=7.54u}
