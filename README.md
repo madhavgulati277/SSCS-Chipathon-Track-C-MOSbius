@@ -90,3 +90,7 @@
 
 ## Magic Tutorial
 - https://www.youtube.com/watch?v=Li2ZdC3MwA0&list=PLEAC5YKV9X4tbrpQFZuSkuKagIMlaszjM
+
+## GF180MCU PDK Official Docs
+
+- https://gf180mcu-pdk.readthedocs.io/en/latest/
