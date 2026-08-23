@@ -86,3 +86,7 @@
 
 - Block Diagram: https://drive.google.com/file/d/1K-ecmafkDB78uYrOsWLTLrin3UoFuY0m/view?usp=drive_link
 - Floorplan: https://drive.google.com/file/d/1QZDz27eBb7EqESp8IXKatKeo0UOMpjjY/view?usp=drive_link
+
+
+## Magic Tutorial
+- https://www.youtube.com/watch?v=Li2ZdC3MwA0&list=PLEAC5YKV9X4tbrpQFZuSkuKagIMlaszjM
