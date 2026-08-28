@@ -94,3 +94,7 @@
 ## GF180MCU PDK Official Docs
 
 - https://gf180mcu-pdk.readthedocs.io/en/latest/
+- https://gf180mcu-pdk.readthedocs.io/en/latest/physical_verification/design_manual/drm_07_06.html (DRC rules)
+
+## Tapeout Legal Form - Edit
+- https://docs.google.com/forms/d/e/1FAIpQLScZxCTiv8VGnypRlKOZa3sDsq4sRsgDejwP5Ds-YsR8Z-AYvQ/viewform?edit2=2_ABaOnuccjEGmv0h4Gc0uXJ2_ehtOjsJ4zoI8rwRGOB8Kf8ZnMU1EzMKEJWJR7qxfpAs1ut0
