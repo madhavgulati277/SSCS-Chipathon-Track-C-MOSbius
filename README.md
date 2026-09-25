@@ -103,3 +103,6 @@
 - https://github.com/sscs-ose/sscs-chipathon-2026/blob/main/resources/info.yaml -> .yaml file format
 - https://github.com/sscs-ose/sscs-chipathon-2026/blob/main/resources/gf180mcu_tapeout_checklist.md -> checklist
 - https://github.com/d-m-bailey/cvc -> Circuit Validity Checker developed by Mitch Bailey
+
+## Wafer.space pad specs
+- https://mith.ro/gf180mcu-project-template/
