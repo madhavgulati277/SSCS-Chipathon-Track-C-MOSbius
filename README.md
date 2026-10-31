@@ -98,3 +98,11 @@
 
 ## Tapeout Legal Form - Edit
 - https://docs.google.com/forms/d/e/1FAIpQLScZxCTiv8VGnypRlKOZa3sDsq4sRsgDejwP5Ds-YsR8Z-AYvQ/viewform?edit2=2_ABaOnuccjEGmv0h4Gc0uXJ2_ehtOjsJ4zoI8rwRGOB8Kf8ZnMU1EzMKEJWJR7qxfpAs1ut0
+
+## Checklist and .yaml file format
+- https://github.com/sscs-ose/sscs-chipathon-2026/blob/main/resources/info.yaml -> .yaml file format
+- https://github.com/sscs-ose/sscs-chipathon-2026/blob/main/resources/gf180mcu_tapeout_checklist.md -> checklist
+- https://github.com/d-m-bailey/cvc -> Circuit Validity Checker developed by Mitch Bailey
+
+## Wafer.space pad specs
+- https://mith.ro/gf180mcu-project-template/
